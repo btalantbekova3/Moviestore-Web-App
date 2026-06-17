@@ -1,8 +1,8 @@
 # Movie Store (Django Project)
+ 
+Fully functionable Movie store web app built with Django. It is based on a book project and follows standard MVC (Model-View-Template) structure.
+
 <img width="511" height="231" alt="image" src="https://github.com/user-attachments/assets/1202a49c-f74d-4910-b421-1e7077f2899e" />
-
-
-This is a simple movie store web app built with Django. It is based on a book project and follows standard MVC (Model-View-Template) structure.
 
 ## Features
 
